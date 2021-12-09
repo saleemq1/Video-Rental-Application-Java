@@ -1,0 +1,4 @@
+Customer,Saleem,Qureshi,sq@hotmail.com,saleemq,sqpassword,100
+Admin,Suleyman,Shah,ss@hotmail.com,suleymans,sspassword,N/A
+Employee,Muhammad,Ali,mh@hotmail.com,muhammada,mapassword,N/A
+Customer,Song,Wang,song@yorku.ca,songw,swpassword,0

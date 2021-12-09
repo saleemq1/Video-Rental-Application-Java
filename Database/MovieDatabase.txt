@@ -1,0 +1,10 @@
+The Dark Knight,2008,Action,10
+Man of Steel,2013,Action,6
+Spider-man: Far from Home,2021,Action,10
+Goodfellas,1990,Crime,5
+21 Jump Street,2012,Comedy,0
+No Time to Die,2021,Action,15
+Parasite,2019,Thriller,5
+Saving Private Ryan,1998,War,11
+Fury,2014,War,12
+Avengers: End Game,2019,Action,20
